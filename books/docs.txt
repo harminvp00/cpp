@@ -1,0 +1,30 @@
+
+------------------------- Skills -------------------------
+languages C/C++/Core Java, Data Structur and Algorithms, Python, SQL, HTML, JavaScipt
+
+Any one Full Stack Framework from below:
+MERN Stack, 
+MEAN Stack,
+Advance Java, 
+Spring Boot,
+Hibernate
+
+Clouds: AWS
+Mobile Computing, 
+
+Mobile App Development:
+Android 
+IOS
+Flutter 
+Ionic 
+
+AI, DS 
+
+------------------------- Books -------------------------
+dsamnta/template/forinsec 
+pl/sql even beroce/rob corner  
+
+
+-------------- ACPC Username and Passwords --------------
+hetpaghdal27
+HetPaghdal#19
