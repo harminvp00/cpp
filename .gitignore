@@ -3,3 +3,5 @@
 .exe
 docs.txt
 /build
+cleanup-exe.sh
+find-exe.sh
