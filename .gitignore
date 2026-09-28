@@ -9,3 +9,7 @@ docs.txt
 # this is some shell files I need to clean up exe sometime 
 cleanup-exe.sh
 find-exe.sh
+
+
+# this is contain visual studio code settings 
+.vscode
