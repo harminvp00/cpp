@@ -1,7 +1,11 @@
 
+# this is output file I prevent to push in the github, kind of unneccssary on the repo
+*.exe
+*.out
 
-.exe
+# My personal docs file only available in my vscode or folder
 docs.txt
-/build
+
+# this is some shell files I need to clean up exe sometime 
 cleanup-exe.sh
 find-exe.sh

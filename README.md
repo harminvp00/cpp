@@ -1,7 +1,10 @@
 # Online_food_order
-collage micro project,
-subject : Boop,
-used concept of oop,
-about online food order system hoe works,
-project type : softwere source code,
-used programmng language : c++.
+
+this repository is used to store my work related to the C/C++ programming language,
+
+- C
+- C++
+- C++ Practices
+- C++ Projects
+- Data Structure
+- Ebooks
